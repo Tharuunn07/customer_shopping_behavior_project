@@ -12,8 +12,8 @@ Missing Values: 37 in Review Rating column
 
 # Tech Stack
 Python (Pandas, NumPy)
-PostgreSQL (SQL analysis)
-Power BI (Dashboard)
+mySQL  
+Power BI
 Jupyter Notebook
 
 # Project Workflow
