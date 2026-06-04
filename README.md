@@ -28,7 +28,7 @@ Removed redundant column: promo_code_used
 Exported cleaned data to PostgreSQL
 
 2. SQL-Based Analysis
-Performed business analysis in PostgreSQL:
+Performed business analysis in mySQL:
 Revenue comparison by gender
 High-spending discount users
 Top-rated products
