@@ -11,10 +11,10 @@ Shopping behavior (Discounts, Promo Codes, Frequency, Reviews, Shipping Type)
 Missing Values: 37 in Review Rating column
 
 # Tech Stack
-Python (Pandas, NumPy)
-mySQL  
-Power BI
-Jupyter Notebook
+Python (Pandas, NumPy),
+mySQL,
+Power BI,
+Jupyter Notebook,
 
 # Project Workflow
 1. Data Cleaning & Preparation (Python)
